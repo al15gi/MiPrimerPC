@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "AMD Ryzen 5 5600G",
+    "categoria": "cpu",
+    "presupuesto": "bajo",
+    "descripcion": "Procesador con gráficos integrados, una opción sencilla para empezar a programar sin comprar una gráfica dedicada.",
+    "enlace": "https://www.amazon.es/",
+    "imagen": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 2,
+    "nombre": "Corsair Vengeance LPX 16GB (2x8GB)",
+    "categoria": "ram",
+    "presupuesto": "bajo",
+    "descripcion": "16 GB de RAM para trabajar cómodamente con el editor, navegador, terminal y herramientas de desarrollo.",
+    "enlace": "https://www.amazon.es/",
+    "imagen": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 3,
+    "nombre": "Kingston NV2 1TB NVMe",
+    "categoria": "ssd",
+    "presupuesto": "bajo",
+    "descripcion": "SSD NVMe de 1 TB para disponer de espacio y buenos tiempos de carga para el sistema y tus proyectos.",
+    "enlace": "https://www.amazon.es/",
+    "imagen": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 4,
+    "nombre": "MSI B550M PRO-VDH WiFi",
+    "categoria": "placa",
+    "presupuesto": "bajo",
+    "descripcion": "Placa base compatible con la plataforma AM4 y con conectividad Wi-Fi integrada.",
+    "enlace": "https://www.amazon.es/",
+    "imagen": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 5,
+    "nombre": "Corsair CV550 550W 80 Plus Bronze",
+    "categoria": "fuente",
+    "presupuesto": "bajo",
+    "descripcion": "Fuente de alimentación de 550 W para una configuración de entrada sin gráfica dedicada.",
+    "enlace": "https://www.amazon.es/",
+    "imagen": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=800&q=80"
+  }
+]

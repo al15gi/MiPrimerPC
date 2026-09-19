@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Guías y recomendaciones para elegir un PC para programar sin gastar de más.">
+  <title>Mi Primer PC de Programación</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="terminal">>&nbsp; mi-primer-pc<span>_</span></div>
+      <h1>💻 Mi Primer PC de Programación</h1>
+      <p>Aprende qué componentes necesitas para programar sin gastar una fortuna.</p>
+      <nav aria-label="Filtros de presupuesto">
+        <button class="filtro activo" data-filtro="todos">Ver todo</button>
+        <button class="filtro" data-filtro="bajo">Presupuesto bajo</button>
+        <button class="filtro" data-filtro="medio">Presupuesto medio</button>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>Componentes recomendados</h2>
+      <p>Una selección inicial para montar un equipo pensado para programación, desarrollo web y C++.</p>
+    </section>
+    <section id="contenedor-productos" class="productos" aria-live="polite"></section>
+    <p id="sin-resultados" class="sin-resultados" hidden>No hay productos para este presupuesto todavía.</p>
+  </main>
+
+  <footer>
+    <p>© 2026 Mi Primer PC de Programación · Alojado en GitHub Pages</p>
+    <p class="aviso">Algunos enlaces pueden ser enlaces de afiliado. Los precios y disponibilidad pueden cambiar.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
