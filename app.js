@@ -20,7 +20,7 @@ function esc(t){
 function render(){
  const q=document.getElementById("busqueda").value.toLowerCase().trim();
  const lista=productos.filter(p=>{
-   const cat=filtro==="todos" || p.grupo===filtro || p.tags.includes(filtro) || (filtro==="economico" && (p.tags.includes("bajo") || p.tags.includes("perifericos") || p.tags.includes("portatil")));
+   const cat=filtro==="todos" || p.grupo===filtro || p.tags.includes(filtro) || (filtro==="economico" && p.tags.includes("economico"));
    const texto=(p.nombre+" "+p.categoria+" "+p.desc).toLowerCase();
    return cat && (!q || texto.includes(q));
  });

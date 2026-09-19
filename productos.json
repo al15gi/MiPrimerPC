@@ -21,7 +21,8 @@
     "grupo": "bajo",
     "tags": [
       "bajo",
-      "gamer"
+      "gamer",
+      "economico"
     ],
     "precio": "≈ 430–500 €",
     "desc": "Una de las GPUs actuales a considerar para una torre de alrededor de 1.000 € y gaming 1080p.",
@@ -35,7 +36,8 @@
     "grupo": "bajo",
     "tags": [
       "bajo",
-      "gamer"
+      "gamer",
+      "economico"
     ],
     "precio": "≈ 550–620 €",
     "desc": "Alternativa actual para gaming; las configuraciones con RX 9060 XT aparecen como opción de este tramo de presupuesto.",
@@ -51,7 +53,8 @@
       "bajo",
       "medio",
       "programacion",
-      "gamer"
+      "gamer",
+      "economico"
     ],
     "precio": "Consultar oferta",
     "desc": "32 GB DDR5 es una base muy cómoda para programación, multitarea y gaming actual.",
@@ -67,7 +70,8 @@
       "bajo",
       "medio",
       "programacion",
-      "gamer"
+      "gamer",
+      "economico"
     ],
     "precio": "Consultar oferta",
     "desc": "1 TB NVMe Gen4 para Windows, herramientas de desarrollo, proyectos y juegos.",
@@ -342,7 +346,8 @@
     "grupo": "perifericos",
     "tags": [
       "perifericos",
-      "gamer"
+      "gamer",
+      "economico"
     ],
     "precio": "≈ 120 €",
     "desc": "Ratón gaming inalámbrico de gama alta, disponible actualmente en Logitech según la búsqueda realizada.",
@@ -357,7 +362,8 @@
     "tags": [
       "perifericos",
       "gamer",
-      "programacion"
+      "programacion",
+      "economico"
     ],
     "precio": "≈ 86 €",
     "desc": "Teclado con switches magnéticos; aparece actualmente en Amazon.es en la búsqueda realizada.",
@@ -371,7 +377,8 @@
     "grupo": "perifericos",
     "tags": [
       "perifericos",
-      "gamer"
+      "gamer",
+      "economico"
     ],
     "precio": "≈ 70 €",
     "desc": "Auriculares gaming con micrófono, actualmente disponibles en Amazon.es según la búsqueda.",
@@ -385,7 +392,8 @@
     "grupo": "perifericos",
     "tags": [
       "perifericos",
-      "programacion"
+      "programacion",
+      "economico"
     ],
     "precio": "≈ 90–120 €",
     "desc": "Teclado inalámbrico de perfil bajo orientado a escritura y productividad.",
@@ -400,7 +408,8 @@
     "tags": [
       "perifericos",
       "gamer",
-      "bajo"
+      "bajo",
+      "economico"
     ],
     "precio": "≈ 35–60 €",
     "desc": "Ratón inalámbrico gaming económico; aparece como opción de precio bajo en PcComponentes.",
@@ -415,11 +424,136 @@
     "tags": [
       "perifericos",
       "gamer",
-      "medio"
+      "medio",
+      "economico"
     ],
     "precio": "≈ 80–160 €",
     "desc": "Teclado mecánico TKL orientado a gaming.",
     "enlace": "https://www.amazon.es/s?k=Corsair+K70+CORE+TKL",
     "imagen": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 30,
+    "nombre": "AMD Ryzen 5 5600G",
+    "categoria": "Procesador con gráficos",
+    "grupo": "economico",
+    "tags": [
+      "economico",
+      "bajo",
+      "piezas",
+      "programacion"
+    ],
+    "precio": "≈ 100–140 €",
+    "desc": "Procesador económico con gráficos integrados para un PC sencillo de estudio, oficina y programación.",
+    "enlace": "https://www.amazon.es/s?k=AMD+Ryzen+5+5600G",
+    "imagen": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 31,
+    "nombre": "Placa base B550 AM4",
+    "categoria": "Placa base",
+    "grupo": "economico",
+    "tags": [
+      "economico",
+      "bajo",
+      "piezas"
+    ],
+    "precio": "≈ 70–110 €",
+    "desc": "Placa B550 para montar un equipo AM4 económico aprovechando procesadores Ryzen compatibles.",
+    "enlace": "https://www.amazon.es/s?k=placa+base+B550+AM4",
+    "imagen": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 32,
+    "nombre": "Fuente 650W 80+ Bronze",
+    "categoria": "Fuente de alimentación",
+    "grupo": "economico",
+    "tags": [
+      "economico",
+      "bajo",
+      "piezas",
+      "gamer"
+    ],
+    "precio": "≈ 50–80 €",
+    "desc": "Fuente de 650 W de marca reconocida para una configuración económica de consumo moderado.",
+    "enlace": "https://www.amazon.es/s?k=fuente+650W+80+Plus+Bronze",
+    "imagen": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 33,
+    "nombre": "Caja ATX con frontal mallado",
+    "categoria": "Caja",
+    "grupo": "economico",
+    "tags": [
+      "economico",
+      "bajo",
+      "piezas",
+      "gamer"
+    ],
+    "precio": "≈ 45–80 €",
+    "desc": "Caja económica con buen flujo de aire para un montaje sencillo.",
+    "enlace": "https://www.amazon.es/s?k=caja+ATX+frontal+mallado",
+    "imagen": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 34,
+    "nombre": "Monitor 24\" Full HD 100–180Hz",
+    "categoria": "Monitor",
+    "grupo": "economico",
+    "tags": [
+      "economico",
+      "bajo",
+      "perifericos",
+      "gamer"
+    ],
+    "precio": "≈ 90–150 €",
+    "desc": "Monitor económico para estudiar, programar y jugar en Full HD.",
+    "enlace": "https://www.amazon.es/s?k=monitor+24+pulgadas+Full+HD+180Hz",
+    "imagen": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 35,
+    "nombre": "Lenovo IdeaPad Slim 3",
+    "categoria": "Portátil económico",
+    "grupo": "economico",
+    "tags": [
+      "economico",
+      "portatil",
+      "programacion"
+    ],
+    "precio": "≈ 450–650 € según configuración",
+    "desc": "Portátil de entrada para estudiar, ofimática y programación ligera. Conviene buscar 16 GB de RAM y SSD de 512 GB o más.",
+    "enlace": "https://www.amazon.es/s?k=Lenovo+IdeaPad+Slim+3+16GB+512GB",
+    "imagen": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 36,
+    "nombre": "Acer Aspire 3",
+    "categoria": "Portátil económico",
+    "grupo": "economico",
+    "tags": [
+      "economico",
+      "portatil",
+      "programacion"
+    ],
+    "precio": "≈ 400–600 € según configuración",
+    "desc": "Portátil sencillo para clases, navegación, ofimática y programación básica.",
+    "enlace": "https://www.amazon.es/s?k=Acer+Aspire+3+16GB+512GB",
+    "imagen": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?auto=format&fit=crop&w=900&q=80"
+  },
+  {
+    "id": 37,
+    "nombre": "ASUS Vivobook Go 15",
+    "categoria": "Portátil económico",
+    "grupo": "economico",
+    "tags": [
+      "economico",
+      "portatil",
+      "programacion"
+    ],
+    "precio": "≈ 400–650 € según configuración",
+    "desc": "Alternativa portátil de entrada para estudio, trabajo diario y programación ligera.",
+    "enlace": "https://www.amazon.es/s?k=ASUS+Vivobook+Go+15+16GB+512GB",
+    "imagen": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=900&q=80"
   }
 ]
