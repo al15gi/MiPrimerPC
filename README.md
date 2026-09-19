@@ -19,3 +19,7 @@ La selección se ha construido usando búsquedas recientes de hardware y portát
 Los enlaces de esta versión llevan a búsquedas específicas de Amazon, no a la portada. Para monetización, sustituye cada campo `enlace` de `productos.json` por tu enlace de afiliado generado para el producto concreto cuando tengas tu cuenta de Amazon Afiliados.
 
 Los precios son orientativos y pueden cambiar.
+
+
+## Nuevo filtro Económico
+El botón 💰 Económico agrupa productos de entrada, piezas, periféricos y portátiles incluidos en el catálogo.

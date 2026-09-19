@@ -20,7 +20,7 @@ function esc(t){
 function render(){
  const q=document.getElementById("busqueda").value.toLowerCase().trim();
  const lista=productos.filter(p=>{
-   const cat=filtro==="todos" || p.grupo===filtro || p.tags.includes(filtro);
+   const cat=filtro==="todos" || p.grupo===filtro || p.tags.includes(filtro) || (filtro==="economico" && (p.tags.includes("bajo") || p.tags.includes("perifericos") || p.tags.includes("portatil")));
    const texto=(p.nombre+" "+p.categoria+" "+p.desc).toLowerCase();
    return cat && (!q || texto.includes(q));
  });
@@ -46,7 +46,7 @@ function render(){
 }
 
 function nombreFiltro(f){
- const m={bajo:"💶 Presupuesto bajo",medio:"⚡ Presupuesto medio",alto:"🚀 Presupuesto alto",portatil:"💻 Portátiles",gamer:"🎮 Gaming",perifericos:"⌨️ Periféricos",programacion:"👨‍💻 Programación"};
+ const m={economico:"💰 Económico: piezas, periféricos y portátiles",bajo:"💶 Presupuesto bajo",medio:"⚡ Presupuesto medio",alto:"🚀 Presupuesto alto",portatil:"💻 Portátiles",gamer:"🎮 Gaming",perifericos:"⌨️ Periféricos",programacion:"👨‍💻 Programación"};
  return m[f]||"Selección actual";
 }
 
