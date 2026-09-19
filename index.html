@@ -2,41 +2,46 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Mi Primer PC de Programación: componentes, PCs, portátiles, gaming y periféricos para programadores.">
-<title>Mi Primer PC de Programación</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Mi Primer PC: selección actual de PCs, componentes, portátiles, gaming y periféricos por presupuesto.">
+<title>Mi Primer PC | Qué comprar para programar y jugar</title>
 <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
 <header class="hero">
-  <div class="hero-inner">
-    <div class="terminal">>&nbsp; mi-primer-pc<span>_</span></div>
-    <h1>💻 Mi Primer PC</h1>
-    <p>Encuentra el equipo y los componentes adecuados para programar, estudiar y jugar.</p>
-    <nav id="filtros" aria-label="Categorías">
-      <button class="filtro activo" data-filtro="todos">Todos</button>
-      <button class="filtro" data-filtro="bajo">💶 Bajo</button>
-      <button class="filtro" data-filtro="medio">💰 Medio</button>
-      <button class="filtro" data-filtro="alto">💎 Alto</button>
-      <button class="filtro" data-filtro="portatil">💻 Portátiles</button>
-      <button class="filtro" data-filtro="gamer">🎮 Gamer</button>
-      <button class="filtro" data-filtro="perifericos">🖱️ Periféricos</button>
-    </nav>
-  </div>
+<div class="hero-inner">
+<div class="terminal">> mi-primer-pc<span>_</span></div>
+<h1>💻 MI PRIMER PC</h1>
+<p>Encuentra PC, componentes, portátiles, gaming y periféricos según tu presupuesto.</p>
+<div class="categorias">
+<button class="filtro activo" data-filtro="todos">🔥 Todo</button>
+<button class="filtro" data-filtro="bajo">💶 Bajo</button>
+<button class="filtro" data-filtro="medio">⚡ Medio</button>
+<button class="filtro" data-filtro="alto">🚀 Alto</button>
+<button class="filtro" data-filtro="portatil">💻 Portátiles</button>
+<button class="filtro" data-filtro="gamer">🎮 Gamer</button>
+<button class="filtro" data-filtro="perifericos">⌨️ Periféricos</button>
+<button class="filtro" data-filtro="programacion">👨‍💻 Programación</button>
+</div>
+<div class="buscador"><input id="busqueda" type="search" placeholder="Buscar RTX, Ryzen, portátil, teclado..."></div>
+</div>
 </header>
 
+<section class="presupuestos">
+<div><b>💶 BAJO</b><span>Para estudiar y empezar</span></div>
+<div><b>⚡ MEDIO</b><span>Equilibrio rendimiento/precio</span></div>
+<div><b>🚀 ALTO</b><span>Máximo rendimiento</span></div>
+</section>
+
 <main>
-  <section class="intro">
-    <h2>Encuentra tu próximo equipo</h2>
-    <p>Filtra por presupuesto o tipo de producto.</p>
-  </section>
-  <section id="contenedor-productos" class="productos" aria-live="polite"></section>
-  <p id="sin-resultados" class="sin-resultados" hidden>No hay productos en esta categoría todavía.</p>
+<div class="cabecera"><div><h2 id="titulo">Selección actual</h2><p id="contador"></p></div></div>
+<section id="contenedor-productos" class="productos"></section>
+<p id="sin-resultados" class="sin-resultados" hidden>No encontramos productos con esos filtros.</p>
 </main>
 
 <footer>
-  <p>© 2026 Mi Primer PC de Programación · GitHub Pages</p>
-  <p class="aviso">Los enlaces actuales llevan a búsquedas de Amazon por nombre. Sustituye cada uno por el enlace exacto de producto y tu enlace de afiliado cuando lo tengas.</p>
+<p>© 2026 Mi Primer PC · GitHub Pages</p>
+<p>Actualizado en septiembre de 2026. Precios y disponibilidad pueden cambiar. Algunos enlaces pueden ser de afiliado.</p>
 </footer>
 <script src="app.js"></script>
 </body>
