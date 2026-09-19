@@ -2,46 +2,199 @@
   {
     "id": 1,
     "nombre": "AMD Ryzen 5 5600G",
-    "categoria": "cpu",
+    "categoria": "CPU",
     "presupuesto": "bajo",
-    "descripcion": "Procesador con gráficos integrados, una opción sencilla para empezar a programar sin comprar una gráfica dedicada.",
-    "enlace": "https://www.amazon.es/",
+    "descripcion": "CPU de entrada con gráficos integrados, adecuada para programación y uso general.",
+    "enlace": "https://www.amazon.es/s?k=AMD+Ryzen+5+5600G",
     "imagen": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": 2,
     "nombre": "Corsair Vengeance LPX 16GB (2x8GB)",
-    "categoria": "ram",
+    "categoria": "RAM",
     "presupuesto": "bajo",
-    "descripcion": "16 GB de RAM para trabajar cómodamente con el editor, navegador, terminal y herramientas de desarrollo.",
-    "enlace": "https://www.amazon.es/",
+    "descripcion": "Kit de 16 GB DDR4 para trabajar con editor, navegador, terminal y herramientas de desarrollo.",
+    "enlace": "https://www.amazon.es/s?k=Corsair+Vengeance+LPX+16GB+2x8GB+DDR4",
     "imagen": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": 3,
     "nombre": "Kingston NV2 1TB NVMe",
-    "categoria": "ssd",
+    "categoria": "SSD",
     "presupuesto": "bajo",
-    "descripcion": "SSD NVMe de 1 TB para disponer de espacio y buenos tiempos de carga para el sistema y tus proyectos.",
-    "enlace": "https://www.amazon.es/",
+    "descripcion": "SSD NVMe de 1 TB para sistema, programas y proyectos.",
+    "enlace": "https://www.amazon.es/s?k=Kingston+NV2+1TB+NVMe",
     "imagen": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": 4,
     "nombre": "MSI B550M PRO-VDH WiFi",
-    "categoria": "placa",
+    "categoria": "Placa base",
     "presupuesto": "bajo",
-    "descripcion": "Placa base compatible con la plataforma AM4 y con conectividad Wi-Fi integrada.",
-    "enlace": "https://www.amazon.es/",
+    "descripcion": "Placa base AM4 con Wi-Fi integrada para una configuración económica.",
+    "enlace": "https://www.amazon.es/s?k=MSI+B550M+PRO-VDH+WiFi",
     "imagen": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=800&q=80"
   },
   {
     "id": 5,
     "nombre": "Corsair CV550 550W 80 Plus Bronze",
-    "categoria": "fuente",
+    "categoria": "Fuente",
     "presupuesto": "bajo",
-    "descripcion": "Fuente de alimentación de 550 W para una configuración de entrada sin gráfica dedicada.",
-    "enlace": "https://www.amazon.es/",
+    "descripcion": "Fuente de 550 W para una configuración de entrada.",
+    "enlace": "https://www.amazon.es/s?k=Corsair+CV550+550W+80+Plus+Bronze",
     "imagen": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 6,
+    "nombre": "AMD Ryzen 5 7600",
+    "categoria": "CPU",
+    "presupuesto": "medio",
+    "descripcion": "CPU moderna de 6 núcleos para programación, multitarea y compilaciones.",
+    "enlace": "https://www.amazon.es/s?k=AMD+Ryzen+5+7600",
+    "imagen": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 7,
+    "nombre": "Kingston FURY Beast 32GB DDR5",
+    "categoria": "RAM",
+    "presupuesto": "medio",
+    "descripcion": "32 GB DDR5 para proyectos más pesados, máquinas virtuales y multitarea.",
+    "enlace": "https://www.amazon.es/s?k=Kingston+FURY+Beast+32GB+DDR5",
+    "imagen": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 8,
+    "nombre": "WD Black SN770 1TB NVMe",
+    "categoria": "SSD",
+    "presupuesto": "medio",
+    "descripcion": "SSD PCIe 4.0 rápido para desarrollo y almacenamiento de proyectos.",
+    "enlace": "https://www.amazon.es/s?k=WD+Black+SN770+1TB+NVMe",
+    "imagen": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 9,
+    "nombre": "AMD Ryzen 9 9950X",
+    "categoria": "CPU",
+    "presupuesto": "alto",
+    "descripcion": "Procesador de gama alta para compilaciones intensivas, multitarea y cargas de trabajo exigentes.",
+    "enlace": "https://www.amazon.es/s?k=AMD+Ryzen+9+9950X",
+    "imagen": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 10,
+    "nombre": "NVIDIA GeForce RTX 5080",
+    "categoria": "GPU",
+    "presupuesto": "alto",
+    "descripcion": "Gráfica de gama alta para desarrollo con GPU, IA local y gaming exigente.",
+    "enlace": "https://www.amazon.es/s?k=NVIDIA+GeForce+RTX+5080",
+    "imagen": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 11,
+    "nombre": "Samsung 990 PRO 2TB NVMe",
+    "categoria": "SSD",
+    "presupuesto": "alto",
+    "descripcion": "SSD NVMe de alta gama con 2 TB para proyectos grandes y cargas intensivas.",
+    "enlace": "https://www.amazon.es/s?k=Samsung+990+PRO+2TB+NVMe",
+    "imagen": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 12,
+    "nombre": "Corsair RM850x 850W",
+    "categoria": "Fuente",
+    "presupuesto": "alto",
+    "descripcion": "Fuente de alta potencia para equipos con componentes exigentes.",
+    "enlace": "https://www.amazon.es/s?k=Corsair+RM850x+850W",
+    "imagen": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 13,
+    "nombre": "Lenovo IdeaPad Slim 5",
+    "categoria": "Portátil",
+    "presupuesto": "portatil",
+    "descripcion": "Portátil orientado a estudio, programación y trabajo diario.",
+    "enlace": "https://www.amazon.es/s?k=Lenovo+IdeaPad+Slim+5",
+    "imagen": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 14,
+    "nombre": "ASUS Vivobook 15",
+    "categoria": "Portátil",
+    "presupuesto": "portatil",
+    "descripcion": "Portátil versátil para estudiar y programar en movilidad.",
+    "enlace": "https://www.amazon.es/s?k=ASUS+Vivobook+15",
+    "imagen": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 15,
+    "nombre": "Acer Aspire 5",
+    "categoria": "Portátil",
+    "presupuesto": "portatil",
+    "descripcion": "Equipo equilibrado para programación, ofimática y estudio.",
+    "enlace": "https://www.amazon.es/s?k=Acer+Aspire+5",
+    "imagen": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 16,
+    "nombre": "PC Gaming Ryzen 7 + RTX 5070",
+    "categoria": "PC Gamer",
+    "presupuesto": "gamer",
+    "descripcion": "Configuración orientada a gaming y desarrollo con GPU.",
+    "enlace": "https://www.amazon.es/s?k=PC+Gaming+Ryzen+7+RTX+5070",
+    "imagen": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 17,
+    "nombre": "Monitor Gaming 27 pulgadas 144/165 Hz",
+    "categoria": "Monitor",
+    "presupuesto": "gamer",
+    "descripcion": "Monitor de alta frecuencia para gaming y trabajo con una pantalla amplia.",
+    "enlace": "https://www.amazon.es/s?k=monitor+gaming+27+165Hz",
+    "imagen": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 18,
+    "nombre": "Teclado mecánico gaming",
+    "categoria": "Teclado",
+    "presupuesto": "gamer",
+    "descripcion": "Teclado mecánico pensado para jugar y escribir código cómodamente.",
+    "enlace": "https://www.amazon.es/s?k=teclado+mecanico+gaming",
+    "imagen": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 19,
+    "nombre": "Logitech G502 HERO",
+    "categoria": "Ratón",
+    "presupuesto": "perifericos",
+    "descripcion": "Ratón con varios botones programables, útil para gaming y productividad.",
+    "enlace": "https://www.amazon.es/s?k=Logitech+G502+HERO",
+    "imagen": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 20,
+    "nombre": "HyperX Cloud III",
+    "categoria": "Auriculares",
+    "presupuesto": "perifericos",
+    "descripcion": "Auriculares para gaming, videollamadas y sesiones largas frente al PC.",
+    "enlace": "https://www.amazon.es/s?k=HyperX+Cloud+III",
+    "imagen": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 21,
+    "nombre": "Logitech MX Master 3S",
+    "categoria": "Ratón",
+    "presupuesto": "perifericos",
+    "descripcion": "Ratón enfocado a productividad y programación.",
+    "enlace": "https://www.amazon.es/s?k=Logitech+MX+Master+3S",
+    "imagen": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": 22,
+    "nombre": "Keychron K2",
+    "categoria": "Teclado",
+    "presupuesto": "perifericos",
+    "descripcion": "Teclado mecánico compacto para programación y uso diario.",
+    "enlace": "https://www.amazon.es/s?k=Keychron+K2+teclado",
+    "imagen": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80"
   }
 ]
