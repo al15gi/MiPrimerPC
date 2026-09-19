@@ -1,436 +1,365 @@
 [
   {
-    "id": 1,
-    "nombre": "PC Gaming Ryzen 5 8500G + 16GB + 1TB",
-    "categoria": "PC completo",
-    "grupo": "bajo",
-    "tags": [
-      "bajo",
-      "gamer",
-      "programacion"
-    ],
-    "precio": "≈ 750–1.000 €",
-    "desc": "Configuración de entrada para estudiar, programar y jugar en 1080p. Busca 16 GB DDR5 y SSD NVMe de 1 TB.",
-    "enlace": "https://www.amazon.es/s?k=PC+Gaming+Ryzen+5+8500G+16GB+1TB",
-    "imagen": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 2,
-    "nombre": "NVIDIA GeForce RTX 5060 8GB",
-    "categoria": "Gráfica",
-    "grupo": "bajo",
-    "tags": [
-      "bajo",
-      "gamer",
-      "economico"
-    ],
-    "precio": "≈ 430–500 €",
-    "desc": "Una de las GPUs actuales a considerar para una torre de alrededor de 1.000 € y gaming 1080p.",
-    "enlace": "https://www.amazon.es/s?k=NVIDIA+RTX+5060+8GB",
-    "imagen": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 3,
-    "nombre": "AMD Radeon RX 9060 XT",
-    "categoria": "Gráfica",
-    "grupo": "bajo",
-    "tags": [
-      "bajo",
-      "gamer",
-      "economico"
-    ],
-    "precio": "≈ 550–620 €",
-    "desc": "Alternativa actual para gaming; las configuraciones con RX 9060 XT aparecen como opción de este tramo de presupuesto.",
-    "enlace": "https://www.amazon.es/s?k=AMD+Radeon+RX+9060+XT",
-    "imagen": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 4,
-    "nombre": "32GB DDR5 6000 (2x16GB)",
-    "categoria": "RAM",
-    "grupo": "bajo",
-    "tags": [
-      "bajo",
-      "medio",
-      "programacion",
-      "gamer",
-      "economico"
-    ],
-    "precio": "Consultar oferta",
-    "desc": "32 GB DDR5 es una base muy cómoda para programación, multitarea y gaming actual.",
-    "enlace": "https://www.amazon.es/s?k=32GB+DDR5+6000+2x16GB",
-    "imagen": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 5,
-    "nombre": "SSD NVMe Gen4 1TB",
-    "categoria": "Almacenamiento",
-    "grupo": "bajo",
-    "tags": [
-      "bajo",
-      "medio",
-      "programacion",
-      "gamer",
-      "economico"
-    ],
-    "precio": "Consultar oferta",
-    "desc": "1 TB NVMe Gen4 para Windows, herramientas de desarrollo, proyectos y juegos.",
-    "enlace": "https://www.amazon.es/s?k=SSD+NVMe+Gen4+1TB",
-    "imagen": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 6,
-    "nombre": "PC Gaming RTX 5060 / RX 9060 XT + 32GB",
-    "categoria": "PC completo",
-    "grupo": "medio",
-    "tags": [
-      "medio",
-      "gamer",
-      "programacion"
-    ],
-    "precio": "≈ 1.000–1.500 €",
-    "desc": "Tramo equilibrado para 1080p alto y 1440p, con 32 GB DDR5 y 1–2 TB NVMe.",
-    "enlace": "https://www.amazon.es/s?k=PC+Gaming+RTX+5060+32GB+1TB",
-    "imagen": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=80"
-  },
-  {
     "id": 7,
     "nombre": "AMD Ryzen 5 7500X3D",
-    "categoria": "CPU",
+    "categoria": "Procesador",
     "grupo": "medio",
     "tags": [
       "medio",
-      "gamer"
+      "gamer",
+      "programacion"
     ],
-    "precio": "≈ 200 €",
-    "desc": "CPU AM5 orientada a gaming, disponible actualmente en PcComponentes según la búsqueda realizada.",
+    "precio": "≈ 200–250 €",
     "enlace": "https://www.amazon.es/s?k=AMD+Ryzen+5+7500X3D",
-    "imagen": "https://images.unsplash.com/photo-1555617981-dac3880eac6e?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 8,
-    "nombre": "NVIDIA GeForce RTX 5070",
-    "categoria": "Gráfica",
-    "grupo": "medio",
-    "tags": [
-      "medio",
-      "gamer",
-      "programacion"
-    ],
-    "precio": "Consultar oferta",
-    "desc": "GPU de gama media-alta para equipos de 1440p y tareas aceleradas por GPU.",
-    "enlace": "https://www.amazon.es/s?k=NVIDIA+GeForce+RTX+5070",
-    "imagen": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 9,
-    "nombre": "SSD NVMe Gen4 2TB",
-    "categoria": "Almacenamiento",
-    "grupo": "medio",
-    "tags": [
-      "medio",
-      "gamer",
-      "programacion"
-    ],
-    "precio": "Consultar oferta",
-    "desc": "2 TB para una biblioteca amplia de juegos y proyectos de desarrollo.",
-    "enlace": "https://www.amazon.es/s?k=SSD+NVMe+Gen4+2TB",
-    "imagen": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=900&q=80"
+    "imagen": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2841053-amd-ryzen-5-7600-x3d.jpg",
+    "desc": "CPU AM5 de 6 núcleos y 12 hilos con 3D V-Cache."
   },
   {
     "id": 10,
-    "nombre": "PC Gaming Ryzen 7 9800X3D + RX 9070 XT",
-    "categoria": "PC completo",
+    "nombre": "AMD Ryzen 7 9800X3D",
+    "categoria": "Procesador",
     "grupo": "alto",
     "tags": [
       "alto",
       "gamer",
       "programacion"
     ],
-    "precio": "≈ 2.000 €+",
-    "desc": "Configuración de gama alta actual citada en guías de PC gaming: Ryzen 7 9800X3D, RX 9070 XT, 32 GB y 2 TB.",
-    "enlace": "https://www.amazon.es/s?k=Ryzen+7+9800X3D+RX+9070+XT+32GB+2TB+PC",
-    "imagen": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=900&q=80"
+    "precio": "≈ 400–550 €",
+    "enlace": "https://www.amazon.es/s?k=AMD+Ryzen+7+9800X3D",
+    "imagen": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2900400-ryzen-7-9800x3d-product.jpg",
+    "desc": "CPU AM5 de 8 núcleos y 16 hilos con 3D V-Cache."
   },
   {
-    "id": 11,
-    "nombre": "PC Gaming Ryzen 7 + RTX 5080",
-    "categoria": "PC completo",
-    "grupo": "alto",
+    "id": 28,
+    "nombre": "Logitech G305 LIGHTSPEED",
+    "categoria": "Ratón gaming",
+    "grupo": "economico",
     "tags": [
-      "alto",
+      "economico",
+      "bajo",
+      "perifericos",
       "gamer"
     ],
-    "precio": "≈ 2.500 €+",
-    "desc": "Configuración de alto rendimiento con Ryzen X3D y RTX 5080 para gaming exigente.",
-    "enlace": "https://www.amazon.es/s?k=PC+Gaming+Ryzen+7+7800X3D+RTX+5080",
-    "imagen": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=80"
+    "precio": "≈ 30–50 €",
+    "enlace": "https://www.amazon.es/s?k=Logitech+G305+LIGHTSPEED",
+    "imagen": "https://resource.logitechg.com/w_544%2Ch_466%2Car_7%3A6%2Cc_pad%2Cq_auto%2Cf_auto%2Cdpr_1.0/d_transparent.gif/content/dam/gaming/en/products/g305/2025-update/g305-lightspeed-mouse-top-angle-white-gallery-1.png",
+    "desc": "Ratón inalámbrico LIGHTSPEED G305, modelo concreto 910-005292/910-005282 según color."
   },
   {
-    "id": 12,
-    "nombre": "64GB DDR5",
-    "categoria": "RAM",
+    "id": 24,
+    "nombre": "Logitech G PRO X SUPERLIGHT 2",
+    "categoria": "Ratón gaming",
     "grupo": "alto",
     "tags": [
       "alto",
-      "programacion"
-    ],
-    "precio": "Consultar oferta",
-    "desc": "Para máquinas virtuales, contenedores, compilaciones grandes y multitarea pesada.",
-    "enlace": "https://www.amazon.es/s?k=64GB+DDR5+6000+2x32GB",
-    "imagen": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 13,
-    "nombre": "SSD NVMe Gen4/Gen5 2TB",
-    "categoria": "Almacenamiento",
-    "grupo": "alto",
-    "tags": [
-      "alto",
-      "gamer",
-      "programacion"
-    ],
-    "precio": "Consultar oferta",
-    "desc": "2 TB rápidos para un equipo de gama alta. En una plataforma nueva conviene dejar una ranura rápida libre para ampliar.",
-    "enlace": "https://www.amazon.es/s?k=SSD+NVMe+Gen5+2TB",
-    "imagen": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 14,
-    "nombre": "Fuente ATX 3.1 850–1000W 80+ Gold",
-    "categoria": "Fuente",
-    "grupo": "alto",
-    "tags": [
-      "alto",
+      "perifericos",
       "gamer"
     ],
-    "precio": "Consultar oferta",
-    "desc": "Para GPUs de gama alta, busca ATX 3.1, 80+ Gold y conector 12V-2x6.",
-    "enlace": "https://www.amazon.es/s?k=fuente+ATX+3.1+1000W+80+Plus+Gold+12V-2x6",
-    "imagen": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=900&q=80"
+    "precio": "≈ 90–130 €",
+    "enlace": "https://www.amazon.es/s?k=Logitech+G+PRO+X+SUPERLIGHT+2",
+    "imagen": "https://www.logitechg.com/en-za/products/gaming-mice/pro-x2-superlight-wireless-mouse.html",
+    "desc": "Ratón inalámbrico PRO X SUPERLIGHT 2. La imagen se sirve desde la página oficial del producto."
   },
   {
-    "id": 15,
-    "nombre": "MacBook Air 13\" M5",
-    "categoria": "Portátil",
-    "grupo": "portatil",
+    "id": 29,
+    "nombre": "Corsair K70 CORE TKL",
+    "categoria": "Teclado gaming",
+    "grupo": "medio",
     "tags": [
-      "portatil",
-      "programacion"
+      "medio",
+      "perifericos",
+      "gamer"
     ],
-    "precio": "Consultar oferta",
-    "desc": "Portátil actual con chip M5, 16 GB de memoria unificada de base y SSD de 512 GB según Apple. Muy orientado a movilidad y programación.",
-    "enlace": "https://www.amazon.es/s?k=MacBook+Air+13+M5+16GB+512GB",
-    "imagen": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    "precio": "≈ 90–130 €",
+    "enlace": "https://www.amazon.es/s?k=Corsair+K70+CORE+TKL",
+    "imagen": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/789064-Product-0-I-638639593209747507.jpg",
+    "desc": "Teclado mecánico TKL Corsair K70 CORE TKL."
   },
   {
-    "id": 16,
-    "nombre": "MacBook Air 15\" M5",
-    "categoria": "Portátil",
-    "grupo": "portatil",
+    "id": 27,
+    "nombre": "Logitech MX Keys S 920-011581",
+    "categoria": "Teclado oficina/programación",
+    "grupo": "economico",
     "tags": [
-      "portatil",
+      "economico",
+      "perifericos",
       "programacion"
     ],
-    "precio": "≈ 1.700 € según configuración",
-    "desc": "Pantalla grande y chip M5; una opción para quien quiere más espacio de trabajo sin pasar a un Pro.",
-    "enlace": "https://www.amazon.es/s?k=MacBook+Air+15+M5+24GB+1TB",
-    "imagen": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=900&q=80"
+    "precio": "≈ 90–120 €",
+    "enlace": "https://www.amazon.es/s?k=Logitech+MX+Keys+S+920-011581",
+    "imagen": "https://creativehub.teliacompany.com/transform/979b7bcd-77a2-412a-947e-1442f8622a47/logitech-mx-keys-s-graphite-01?io=transform%3Afill%2Cwidth%3A500&quality=95",
+    "desc": "Teclado Logitech MX Keys S, referencia 920-011581."
+  },
+  {
+    "id": 26,
+    "nombre": "HyperX Cloud III 727A8AA",
+    "categoria": "Auriculares",
+    "grupo": "economico",
+    "tags": [
+      "economico",
+      "perifericos",
+      "gamer"
+    ],
+    "precio": "≈ 60–80 €",
+    "enlace": "https://www.amazon.es/s?k=HyperX+Cloud+III+727A8AA",
+    "imagen": "https://cdn.cs.1worldsync.com/d5/bb/d5bb8ec7-1f8e-408a-a62f-87f139d9e22b.jpg",
+    "desc": "Auriculares HyperX Cloud III cableados, referencia 727A8AA."
   },
   {
     "id": 17,
-    "nombre": "Lenovo ThinkPad T14 Gen 6",
+    "nombre": "Lenovo ThinkPad T14 Gen 6 21QC006PUS",
     "categoria": "Portátil profesional",
     "grupo": "portatil",
     "tags": [
       "portatil",
       "programacion"
     ],
-    "precio": "≈ 1.750 € según configuración",
-    "desc": "ThinkPad T14 Gen 6 con Core Ultra 5, 16 GB, 512 GB y Arc 130V aparece actualmente en PcComponentes; destaca por movilidad y conectividad.",
-    "enlace": "https://www.amazon.es/s?k=Lenovo+ThinkPad+T14+Gen+6+Core+Ultra+5+16GB+512GB",
-    "imagen": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80"
+    "precio": "≈ 1.400–1.900 €",
+    "enlace": "https://www.amazon.es/s?k=Lenovo+ThinkPad+T14+Gen+6+21QC006PUS",
+    "imagen": "https://cdn.cs.1worldsync.com/5e/1a/5e1a30cb-f871-49b5-bcdb-8696aff461fe.jpg",
+    "desc": "ThinkPad T14 Gen 6, referencia 21QC006PUS, 14 pulgadas."
+  },
+  {
+    "id": 15,
+    "nombre": "Apple MacBook Air 13,6\" M5 16GB 512GB",
+    "categoria": "Portátil",
+    "grupo": "portatil",
+    "tags": [
+      "portatil",
+      "programacion",
+      "economico"
+    ],
+    "precio": "≈ 1.200–1.400 €",
+    "enlace": "https://www.apple.com/es/shop/buy-mac/macbook-air",
+    "imagen": "https://www.apple.com/v/macbook-air/specs/b/images/specs/13-inch/mba_13_hero__c067qisf51oy_large.jpg",
+    "desc": "MacBook Air de 13,6 pulgadas con M5, 16 GB y 512 GB."
+  },
+  {
+    "id": 16,
+    "nombre": "Apple MacBook Air 15,3\" M5 16GB 512GB",
+    "categoria": "Portátil",
+    "grupo": "portatil",
+    "tags": [
+      "portatil",
+      "programacion"
+    ],
+    "precio": "≈ 1.400–1.600 €",
+    "enlace": "https://www.apple.com/es/shop/buy-mac/macbook-air",
+    "imagen": "https://www.apple.com/v/macbook-air/specs/b/images/specs/15-inch/mba_15_hero__gkshp5bw2f6m_large.jpg",
+    "desc": "MacBook Air de 15,3 pulgadas con M5, 16 GB y 512 GB."
+  },
+  {
+    "id": 35,
+    "nombre": "Lenovo IdeaPad Slim 3 Gen 8 82XM006DJP",
+    "categoria": "Portátil económico",
+    "grupo": "economico",
+    "tags": [
+      "economico",
+      "portatil",
+      "programacion"
+    ],
+    "precio": "≈ 450–650 €",
+    "enlace": "https://www.amazon.es/s?k=Lenovo+IdeaPad+Slim+3+Gen+8+82XM006DJP",
+    "imagen": "https://img1.kakaku.k-img.com/images/smartphone/icv/f_K0001540820.jpg",
+    "desc": "Lenovo IdeaPad Slim 3 Gen 8, referencia 82XM006DJP."
+  },
+  {
+    "id": 37,
+    "nombre": "ASUS Vivobook Go 15 E1504FA",
+    "categoria": "Portátil económico",
+    "grupo": "economico",
+    "tags": [
+      "economico",
+      "portatil",
+      "programacion"
+    ],
+    "precio": "≈ 400–600 €",
+    "enlace": "https://www.amazon.es/s?k=ASUS+Vivobook+Go+15+E1504FA",
+    "imagen": "https://www.emag.ro/laptop-asus-vivobook-go-15-e1504fa-cu-procesor-amd-ryzentm-3-7320u-pana-la-4-10-ghz-15-6-full-hd-ips-8gb-256gb-ssd-amd-radeontm-graphics-no-os-mixed-black-e1504fa-bq057/pd/DFJP18MBM/",
+    "desc": "ASUS Vivobook Go 15 E1504FA. Imagen de la ficha del modelo."
   },
   {
     "id": 18,
-    "nombre": "ASUS ROG Zephyrus G16",
+    "nombre": "ASUS ROG Zephyrus G16 (2026) GU606AW-TB132W",
     "categoria": "Portátil gaming",
-    "grupo": "portatil",
+    "grupo": "alto",
     "tags": [
-      "portatil",
-      "gamer",
-      "alto"
-    ],
-    "precio": "Gama alta",
-    "desc": "Portátil gaming de alta gama; las configuraciones actuales llegan a RTX 5080 y 64 GB según la tienda de ASUS consultada.",
-    "enlace": "https://www.amazon.es/s?k=ASUS+ROG+Zephyrus+G16+RTX+5080",
-    "imagen": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 19,
-    "nombre": "ASUS ROG Zephyrus G14 / Lenovo Legion 5i",
-    "categoria": "Portátil gaming",
-    "grupo": "portatil",
-    "tags": [
+      "alto",
       "portatil",
       "gamer"
     ],
-    "precio": "Gama media-alta",
-    "desc": "Alternativas compactas para gaming y programación. La Legion 5i Gen 11 se comercializa con RTX 5070 según la guía consultada.",
-    "enlace": "https://www.amazon.es/s?k=Lenovo+Legion+5i+Gen+11+RTX+5070",
-    "imagen": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=900&q=80"
+    "precio": "≈ 4.300 €",
+    "enlace": "https://www.amazon.es/s?k=ASUS+ROG+Zephyrus+G16+GU606AW-TB132W",
+    "imagen": "https://rog.asus.com/kr/laptops/rog-zephyrus/rog-zephyrus-g16-2026/award/",
+    "desc": "ROG Zephyrus G16 2026, variante GU606AW-TB132W con RTX 5080, Core Ultra 9 386H y 1TB."
   },
   {
     "id": 20,
-    "nombre": "Monitor gaming QHD 27\" 165–180Hz",
-    "categoria": "Monitor",
-    "grupo": "gamer",
+    "nombre": "ASUS TUF Gaming VG27AQ3A",
+    "categoria": "Monitor gaming 27\" QHD 180Hz",
+    "grupo": "medio",
     "tags": [
+      "medio",
       "gamer",
-      "perifericos",
-      "medio"
+      "perifericos"
     ],
-    "precio": "Consultar oferta",
-    "desc": "Para un PC de gama media, 1440p y 165–180 Hz es una combinación muy interesante.",
-    "enlace": "https://www.amazon.es/s?k=monitor+gaming+QHD+27+180Hz",
-    "imagen": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=80"
+    "precio": "≈ 200–300 €",
+    "enlace": "https://www.amazon.es/s?k=ASUS+TUF+Gaming+VG27AQ3A",
+    "imagen": "https://www.wootware.co.za/media/catalog/product/cache/1/image/17f82f742ffe127f42dca9de82fb58b1/a/s/asus-tuf-gaming-vg27aq3a-5.jpg",
+    "desc": "Monitor ASUS TUF Gaming VG27AQ3A, 27 pulgadas, QHD, 180 Hz."
   },
   {
     "id": 21,
-    "nombre": "Monitor gaming 27\" QHD 240Hz",
-    "categoria": "Monitor",
-    "grupo": "gamer",
+    "nombre": "LG UltraGear 27GR83Q-B",
+    "categoria": "Monitor gaming 27\" QHD 240Hz",
+    "grupo": "alto",
     "tags": [
+      "alto",
       "gamer",
-      "perifericos",
-      "alto"
+      "perifericos"
     ],
-    "precio": "Gama alta",
-    "desc": "Pensado para aprovechar equipos rápidos y juegos competitivos.",
-    "enlace": "https://www.amazon.es/s?k=monitor+gaming+27+QHD+240Hz",
-    "imagen": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 22,
-    "nombre": "PC Gaming RTX 5060",
-    "categoria": "Gaming 1080p",
-    "grupo": "gamer",
-    "tags": [
-      "gamer",
-      "bajo",
-      "medio"
-    ],
-    "precio": "Desde ≈ 1.000 € de torre",
-    "desc": "La RTX 5060 aparece en configuraciones de 1.000 € como una opción actual para 1080p.",
-    "enlace": "https://www.amazon.es/s?k=PC+Gaming+RTX+5060+16GB+1TB",
-    "imagen": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=80"
+    "precio": "≈ 300–450 €",
+    "enlace": "https://www.amazon.es/s?k=LG+UltraGear+27GR83Q-B",
+    "imagen": "https://www.lg.com/es/monitores/monitores-ultragear-gaming/27gr83q-b/",
+    "desc": "LG UltraGear 27GR83Q-B, 27 pulgadas QHD y 240 Hz. La imagen se sirve desde la página oficial."
   },
   {
     "id": 23,
-    "nombre": "PC Gaming RTX 5070 Ti",
-    "categoria": "Gaming 1440p",
-    "grupo": "gamer",
+    "nombre": "MSI GeForce RTX 5070 Ti VENTUS 3X OC 16G (912-V531-092)",
+    "categoria": "Tarjeta gráfica",
+    "grupo": "alto",
     "tags": [
-      "gamer",
-      "alto"
+      "alto",
+      "gamer"
     ],
-    "precio": "Gama alta",
-    "desc": "Una configuración de RTX 5070 Ti con 32 GB DDR5 aparece como opción de alto rendimiento en guías actuales.",
-    "enlace": "https://www.amazon.es/s?k=PC+Gaming+RTX+5070+Ti+32GB+DDR5",
-    "imagen": "https://images.unsplash.com/photo-1587202372634-32705e3bf49c?auto=format&fit=crop&w=900&q=80"
+    "precio": "≈ 800–950 €",
+    "enlace": "https://www.amazon.es/s?k=MSI+RTX+5070+Ti+VENTUS+3X+OC+16G+912-V531-092",
+    "imagen": "https://microglobalpromos.com.ar/2025/img/092025/912-V531-092_01.jpg",
+    "desc": "MSI RTX 5070 Ti VENTUS 3X OC 16G, referencia 912-V531-092."
   },
   {
-    "id": 24,
-    "nombre": "Logitech G PRO X Superlight 2",
-    "categoria": "Ratón gaming",
-    "grupo": "perifericos",
+    "id": 3,
+    "nombre": "Sapphire PULSE Radeon RX 9060 XT 16GB",
+    "categoria": "Tarjeta gráfica",
+    "grupo": "bajo",
     "tags": [
-      "perifericos",
-      "gamer",
-      "economico"
-    ],
-    "precio": "≈ 120 €",
-    "desc": "Ratón gaming inalámbrico de gama alta, disponible actualmente en Logitech según la búsqueda realizada.",
-    "enlace": "https://www.amazon.es/s?k=Logitech+G+PRO+X+Superlight+2",
-    "imagen": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 25,
-    "nombre": "Keychron C0 HE",
-    "categoria": "Teclado gaming",
-    "grupo": "perifericos",
-    "tags": [
-      "perifericos",
-      "gamer",
-      "programacion",
-      "economico"
-    ],
-    "precio": "≈ 86 €",
-    "desc": "Teclado con switches magnéticos; aparece actualmente en Amazon.es en la búsqueda realizada.",
-    "enlace": "https://www.amazon.es/s?k=Keychron+C0+HE",
-    "imagen": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 26,
-    "nombre": "HyperX Cloud III",
-    "categoria": "Auriculares",
-    "grupo": "perifericos",
-    "tags": [
-      "perifericos",
-      "gamer",
-      "economico"
-    ],
-    "precio": "≈ 70 €",
-    "desc": "Auriculares gaming con micrófono, actualmente disponibles en Amazon.es según la búsqueda.",
-    "enlace": "https://www.amazon.es/s?k=HyperX+Cloud+III",
-    "imagen": "https://images.unsplash.com/photo-1599669454699-248893623440?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 27,
-    "nombre": "Logitech MX Keys S",
-    "categoria": "Teclado productividad",
-    "grupo": "perifericos",
-    "tags": [
-      "perifericos",
-      "programacion",
-      "economico"
-    ],
-    "precio": "≈ 90–120 €",
-    "desc": "Teclado inalámbrico de perfil bajo orientado a escritura y productividad.",
-    "enlace": "https://www.amazon.es/s?k=Logitech+MX+Keys+S",
-    "imagen": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 28,
-    "nombre": "Logitech G305 LIGHTSPEED",
-    "categoria": "Ratón gaming",
-    "grupo": "perifericos",
-    "tags": [
-      "perifericos",
-      "gamer",
       "bajo",
-      "economico"
+      "economico",
+      "gamer"
     ],
-    "precio": "≈ 35–60 €",
-    "desc": "Ratón inalámbrico gaming económico; aparece como opción de precio bajo en PcComponentes.",
-    "enlace": "https://www.amazon.es/s?k=Logitech+G305+LIGHTSPEED",
-    "imagen": "https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&w=900&q=80"
+    "precio": "≈ 550–700 €",
+    "enlace": "https://www.amazon.es/s?k=Sapphire+PULSE+Radeon+RX+9060+XT+16GB",
+    "imagen": "https://www.ldlc.com/fr-be/fiche/PB00686662.html",
+    "desc": "Sapphire PULSE RX 9060 XT 16GB."
   },
   {
-    "id": 29,
-    "nombre": "Corsair K70 CORE TKL",
-    "categoria": "Teclado gaming",
-    "grupo": "perifericos",
+    "id": 2,
+    "nombre": "Gigabyte GeForce RTX 5060 WINDFORCE OC 8G",
+    "categoria": "Tarjeta gráfica",
+    "grupo": "bajo",
     "tags": [
-      "perifericos",
-      "gamer",
-      "medio",
-      "economico"
+      "bajo",
+      "economico",
+      "gamer"
     ],
-    "precio": "≈ 80–160 €",
-    "desc": "Teclado mecánico TKL orientado a gaming.",
-    "enlace": "https://www.amazon.es/s?k=Corsair+K70+CORE+TKL",
-    "imagen": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80"
+    "precio": "≈ 430–500 €",
+    "enlace": "https://www.amazon.es/s?k=Gigabyte+GeForce+RTX+5060+WINDFORCE+OC+8G",
+    "imagen": "https://www.ldlc.com/fiche/PB00684414.html",
+    "desc": "Gigabyte GeForce RTX 5060 WINDFORCE 8G."
+  },
+  {
+    "id": 4,
+    "nombre": "Corsair Vengeance DDR5 32GB (2x16GB) 6000 CL30",
+    "categoria": "Memoria RAM",
+    "grupo": "bajo",
+    "tags": [
+      "bajo",
+      "economico",
+      "medio",
+      "gamer",
+      "programacion"
+    ],
+    "precio": "≈ 90–130 €",
+    "enlace": "https://www.amazon.es/s?k=Corsair+Vengeance+DDR5+32GB+6000+CL30",
+    "imagen": "https://www.ldlc.com/en/product/PB00563927.html",
+    "desc": "Kit Corsair Vengeance DDR5 32 GB (2x16) 6000 MHz CL30."
+  },
+  {
+    "id": 12,
+    "nombre": "Corsair Vengeance DDR5 64GB (2x32GB) 6000",
+    "categoria": "Memoria RAM",
+    "grupo": "alto",
+    "tags": [
+      "alto",
+      "programacion",
+      "gamer"
+    ],
+    "precio": "≈ 180–250 €",
+    "enlace": "https://www.amazon.es/s?k=Corsair+Vengeance+DDR5+64GB+6000",
+    "imagen": "https://www.ldlc.com/en/product/PB00563927.html",
+    "desc": "Kit Corsair Vengeance DDR5; buscar variante exacta 64 GB antes de comprar."
+  },
+  {
+    "id": 5,
+    "nombre": "Kingston NV2 1TB SNV2S/1000G",
+    "categoria": "SSD NVMe",
+    "grupo": "bajo",
+    "tags": [
+      "bajo",
+      "economico",
+      "medio",
+      "programacion",
+      "gamer"
+    ],
+    "precio": "≈ 60–80 €",
+    "enlace": "https://www.amazon.es/s?k=Kingston+NV2+1TB+SNV2S%2F1000G",
+    "imagen": "https://www.kingston.com/datasheets/SNV2S_es.pdf",
+    "desc": "Kingston NV2 1TB, referencia SNV2S/1000G."
+  },
+  {
+    "id": 9,
+    "nombre": "Kingston NV2 2TB SNV2S/2000G",
+    "categoria": "SSD NVMe",
+    "grupo": "medio",
+    "tags": [
+      "medio",
+      "gamer",
+      "programacion"
+    ],
+    "precio": "≈ 110–160 €",
+    "enlace": "https://www.amazon.es/s?k=Kingston+NV2+2TB+SNV2S%2F2000G",
+    "imagen": "https://www.kingston.com/datasheets/SNV2S_es.pdf",
+    "desc": "Kingston NV2 2TB, referencia SNV2S/2000G."
+  },
+  {
+    "id": 14,
+    "nombre": "MSI MAG A850GL PCIE5 850W 80+ Gold",
+    "categoria": "Fuente de alimentación",
+    "grupo": "alto",
+    "tags": [
+      "alto",
+      "gamer"
+    ],
+    "precio": "≈ 100–140 €",
+    "enlace": "https://www.amazon.es/s?k=MSI+MAG+A850GL+PCIE5+850W",
+    "imagen": "https://www.amazon.es/s?k=MSI+MAG+A850GL+PCIE5+850W",
+    "desc": "Fuente MSI MAG A850GL PCIE5 850W 80+ Gold."
+  },
+  {
+    "id": 32,
+    "nombre": "Corsair CX650 650W 80+ Bronze",
+    "categoria": "Fuente de alimentación",
+    "grupo": "economico",
+    "tags": [
+      "economico",
+      "bajo",
+      "piezas",
+      "gamer"
+    ],
+    "precio": "≈ 55–80 €",
+    "enlace": "https://www.amazon.es/s?k=Corsair+CX650+650W+80+Plus+Bronze",
+    "imagen": "https://www.amazon.es/s?k=Corsair+CX650+650W+80+Plus+Bronze",
+    "desc": "Fuente Corsair CX650 650W 80+ Bronze."
   },
   {
     "id": 30,
@@ -443,62 +372,30 @@
       "piezas",
       "programacion"
     ],
-    "precio": "≈ 100–140 €",
-    "desc": "Procesador económico con gráficos integrados para un PC sencillo de estudio, oficina y programación.",
+    "precio": "≈ 90–130 €",
     "enlace": "https://www.amazon.es/s?k=AMD+Ryzen+5+5600G",
-    "imagen": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?auto=format&fit=crop&w=900&q=80"
+    "imagen": "https://www.amazon.es/s?k=AMD+Ryzen+5+5600G",
+    "desc": "AMD Ryzen 5 5600G."
   },
   {
     "id": 31,
-    "nombre": "Placa base B550 AM4",
-    "categoria": "Placa base",
+    "nombre": "MSI B550-A PRO",
+    "categoria": "Placa base AM4",
     "grupo": "economico",
     "tags": [
       "economico",
       "bajo",
       "piezas"
     ],
-    "precio": "≈ 70–110 €",
-    "desc": "Placa B550 para montar un equipo AM4 económico aprovechando procesadores Ryzen compatibles.",
-    "enlace": "https://www.amazon.es/s?k=placa+base+B550+AM4",
-    "imagen": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 32,
-    "nombre": "Fuente 650W 80+ Bronze",
-    "categoria": "Fuente de alimentación",
-    "grupo": "economico",
-    "tags": [
-      "economico",
-      "bajo",
-      "piezas",
-      "gamer"
-    ],
-    "precio": "≈ 50–80 €",
-    "desc": "Fuente de 650 W de marca reconocida para una configuración económica de consumo moderado.",
-    "enlace": "https://www.amazon.es/s?k=fuente+650W+80+Plus+Bronze",
-    "imagen": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 33,
-    "nombre": "Caja ATX con frontal mallado",
-    "categoria": "Caja",
-    "grupo": "economico",
-    "tags": [
-      "economico",
-      "bajo",
-      "piezas",
-      "gamer"
-    ],
-    "precio": "≈ 45–80 €",
-    "desc": "Caja económica con buen flujo de aire para un montaje sencillo.",
-    "enlace": "https://www.amazon.es/s?k=caja+ATX+frontal+mallado",
-    "imagen": "https://images.unsplash.com/photo-1587831990711-23ca6441447b?auto=format&fit=crop&w=900&q=80"
+    "precio": "≈ 90–120 €",
+    "enlace": "https://www.amazon.es/s?k=MSI+B550-A+PRO",
+    "imagen": "https://www.amazon.es/s?k=MSI+B550-A+PRO",
+    "desc": "Placa MSI B550-A PRO."
   },
   {
     "id": 34,
-    "nombre": "Monitor 24\" Full HD 100–180Hz",
-    "categoria": "Monitor",
+    "nombre": "AOC 24G2SPAE 24\" Full HD 165Hz",
+    "categoria": "Monitor gaming",
     "grupo": "economico",
     "tags": [
       "economico",
@@ -506,54 +403,39 @@
       "perifericos",
       "gamer"
     ],
-    "precio": "≈ 90–150 €",
-    "desc": "Monitor económico para estudiar, programar y jugar en Full HD.",
-    "enlace": "https://www.amazon.es/s?k=monitor+24+pulgadas+Full+HD+180Hz",
-    "imagen": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=80"
+    "precio": "≈ 120–170 €",
+    "enlace": "https://www.amazon.es/s?k=AOC+24G2SPAE",
+    "imagen": "https://www.amazon.es/s?k=AOC+24G2SPAE",
+    "desc": "Monitor AOC 24G2SPAE, 24 pulgadas Full HD 165 Hz."
   },
   {
-    "id": 35,
-    "nombre": "Lenovo IdeaPad Slim 3",
-    "categoria": "Portátil económico",
-    "grupo": "economico",
+    "id": 22,
+    "nombre": "Gigabyte GeForce RTX 5060 WINDFORCE OC 8G",
+    "categoria": "Tarjeta gráfica gaming",
+    "grupo": "gamer",
     "tags": [
-      "economico",
-      "portatil",
-      "programacion"
+      "gamer",
+      "bajo",
+      "medio"
     ],
-    "precio": "≈ 450–650 € según configuración",
-    "desc": "Portátil de entrada para estudiar, ofimática y programación ligera. Conviene buscar 16 GB de RAM y SSD de 512 GB o más.",
-    "enlace": "https://www.amazon.es/s?k=Lenovo+IdeaPad+Slim+3+16GB+512GB",
-    "imagen": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80"
+    "precio": "≈ 430–500 €",
+    "enlace": "https://www.amazon.es/s?k=Gigabyte+GeForce+RTX+5060+WINDFORCE+OC+8G",
+    "imagen": "https://www.ldlc.com/fiche/PB00684414.html",
+    "desc": "La misma RTX 5060 concreta, agrupada también en Gamer."
   },
   {
-    "id": 36,
-    "nombre": "Acer Aspire 3",
-    "categoria": "Portátil económico",
-    "grupo": "economico",
+    "id": 8,
+    "nombre": "Gigabyte GeForce RTX 5070 WINDFORCE OC SFF 12G",
+    "categoria": "Tarjeta gráfica",
+    "grupo": "medio",
     "tags": [
-      "economico",
-      "portatil",
+      "medio",
+      "gamer",
       "programacion"
     ],
-    "precio": "≈ 400–600 € según configuración",
-    "desc": "Portátil sencillo para clases, navegación, ofimática y programación básica.",
-    "enlace": "https://www.amazon.es/s?k=Acer+Aspire+3+16GB+512GB",
-    "imagen": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?auto=format&fit=crop&w=900&q=80"
-  },
-  {
-    "id": 37,
-    "nombre": "ASUS Vivobook Go 15",
-    "categoria": "Portátil económico",
-    "grupo": "economico",
-    "tags": [
-      "economico",
-      "portatil",
-      "programacion"
-    ],
-    "precio": "≈ 400–650 € según configuración",
-    "desc": "Alternativa portátil de entrada para estudio, trabajo diario y programación ligera.",
-    "enlace": "https://www.amazon.es/s?k=ASUS+Vivobook+Go+15+16GB+512GB",
-    "imagen": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=900&q=80"
+    "precio": "≈ 600–750 €",
+    "enlace": "https://www.amazon.es/s?k=Gigabyte+GeForce+RTX+5070+WINDFORCE+OC+SFF+12G",
+    "imagen": "https://www.ldlc.com/en/product/PB00671172.html",
+    "desc": "Gigabyte GeForce RTX 5070 WINDFORCE OC SFF 12G."
   }
 ]
